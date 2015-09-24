@@ -6,7 +6,5 @@ categories: CSS
 excerpt: Hello World
 ---
 
-* content
-{:toc}
 
-TODO
+![](http://7xn14g.com1.z0.glb.clouddn.com/bloglarge_1845j40.jpg)
